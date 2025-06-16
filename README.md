@@ -61,7 +61,7 @@
   </a> 
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width=50px> </picture> Backend Development
+### <picture> <img src="https://cdn-icons-png.flaticon.com/512/6213/6213731.png" width=50px> </picture> Backend Development
 <p align="center">
   &emsp;
     <a href="#" target="_blank"> 
@@ -85,7 +85,7 @@
     </a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/DataBase.gif?raw=true" width=50px> </picture> Database & Cloud
+### <picture> <img src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" width=50px> </picture> Database & Cloud
 <p align="center">
   &emsp;
     <a href="#" target="_blank"> 
@@ -156,12 +156,6 @@
 </p>
 
 </details>
-
-## 🐍 A Snake Eating my Contributions Graph
-
-<p align="center">
-	<img src="https://github.com/karmicdev/karmicdev/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
 
 <p align="center">
 	<blockquote>
