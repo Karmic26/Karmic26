@@ -159,7 +159,7 @@
 
 <p align="center">
 	<blockquote>
-		<p align="center">"Cada uno ve lo que parece, pero pocos comprenden lo que ven"</p>
-		<footer align="center">— Nicolás Maquiavelo</footer>
+		<p align="center">"Not all those who wander are lost"</p>
+		<footer align="center">—  J.R.R. Tolkien LOTR </footer>
 	</blockquote>
 </p>
